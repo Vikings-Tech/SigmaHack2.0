@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/WebsiteTutScene.unity
+    guid: fbcdf9b6039ca0b429e75ce49dafffe3
+  - enabled: 1
+    path: Assets/Scenes/DIYTutShelf.unity
+    guid: 413a62e959c79fa4d988f0789abc1f81
   m_configObjects: {}
