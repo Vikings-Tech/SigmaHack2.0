@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 8071e7cdd2c07574a9af532a73194693
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -726868580197382054
+    second: Flap|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: -6070240583350781226
+    second: Flap|Camera001|Take 001|BaseLayer
+  - first:
+      74: 5693223433960310404
+    second: Flap|Camera002.Target|Take 001|BaseLayer
+  - first:
+      74: -479585815151473587
+    second: Flap|Camera002|Take 001|BaseLayer
+  - first:
+      74: 2471473086604570666
+    second: Flap|Camera003.Target|Take 001|BaseLayer
+  - first:
+      74: 5296061641384789485
+    second: Flap|Camera003|Take 001|BaseLayer
+  - first:
+      74: 120953185726453842
+    second: Flap|Camera004.Target|Take 001|BaseLayer
+  - first:
+      74: 1748868822122233627
+    second: Flap|Camera004|Take 001|BaseLayer
+  - first:
+      74: 1337558671585129340
+    second: Flap|Camera005.Target|Take 001|BaseLayer
+  - first:
+      74: -4278828147776720873
+    second: Flap|Camera005|Take 001|BaseLayer
+  - first:
+      74: -8253059372017005742
+    second: Flap|Camera006.Target|Take 001|BaseLayer
+  - first:
+      74: 6207997368397742166
+    second: Flap|Camera006|Take 001|BaseLayer
+  - first:
+      74: -5980203071881246341
+    second: Flap|Camera007.Target|Take 001|BaseLayer
+  - first:
+      74: 2176733887752103797
+    second: Flap|Camera007|Take 001|BaseLayer
+  - first:
+      74: 6592305119946604387
+    second: Flap|Camera008.Target|Take 001|BaseLayer
+  - first:
+      74: -5004284508939517256
+    second: Flap|Camera008|Take 001|BaseLayer
+  - first:
+      74: 8382264378215968161
+    second: Flap|Coioler|Take 001|BaseLayer
+  - first:
+      74: 6823888271247756167
+    second: Flap|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -1558592273808315638
+    second: Flap|Cylinder02|Take 001|BaseLayer
+  - first:
+      74: 111355784799408012
+    second: Flap|Cylinder03|Take 001|BaseLayer
+  - first:
+      74: 7983320319062293606
+    second: Flap|Cylinder04|Take 001|BaseLayer
+  - first:
+      74: -4852017615970318537
+    second: Flap|Cylinder05|Take 001|BaseLayer
+  - first:
+      74: 6244861519333664175
+    second: Flap|Cylinder06|Take 001|BaseLayer
+  - first:
+      74: 824382786006325472
+    second: Flap|Cylinder07|Take 001|BaseLayer
+  - first:
+      74: 6969314740525223926
+    second: Flap|Cylinder08|Take 001|BaseLayer
+  - first:
+      74: -3800665800019964391
+    second: Flap|Line001|Take 001|BaseLayer
+  - first:
+      74: -1577415204816514869
+    second: Flap|Line001|Take 001|BaseLayer.001
+  - first:
+      74: 2024781738616421730
+    second: Flap|Line002|Take 001|BaseLayer
+  - first:
+      74: 4351798017226051844
+    second: Flap|Line003|Take 001|BaseLayer
+  - first:
+      74: 4635636736215630503
+    second: Flap|Line004|Take 001|BaseLayer
+  - first:
+      74: 175121216244689457
+    second: Flap|Line018|Take 001|BaseLayer
+  - first:
+      74: -8137278051341980803
+    second: Flap|Line019|Take 001|BaseLayer
+  - first:
+      74: 902029198040227710
+    second: Flap|Line020|Take 001|BaseLayer
+  - first:
+      74: -7087571003515941374
+    second: Flap|Line021|Take 001|BaseLayer
+  - first:
+      74: 7850841768549186933
+    second: Flap|Line022|Take 001|BaseLayer
+  - first:
+      74: -4477753396396666941
+    second: Flap|Line023|Take 001|BaseLayer
+  - first:
+      74: 5604089985990437796
+    second: Flap|Line024|Take 001|BaseLayer
+  - first:
+      74: 1249367129491027670
+    second: Flap|Line025|Take 001|BaseLayer
+  - first:
+      74: -2010174784626997317
+    second: Flap|Line026|Take 001|BaseLayer
+  - first:
+      74: -7027104869442043417
+    second: Flap|Line027|Take 001|BaseLayer
+  - first:
+      74: 3281709821166197599
+    second: Flap|Line028|Take 001|BaseLayer
+  - first:
+      74: -6613829614108836563
+    second: Flap|Object001|Take 001|BaseLayer
+  - first:
+      74: 8947442897432221807
+    second: Flap|Object002|Take 001|BaseLayer
+  - first:
+      74: -7063389602572881248
+    second: Flap|Object003|Take 001|BaseLayer
+  - first:
+      74: -1189688855579402401
+    second: Flap|Object004|Take 001|BaseLayer
+  - first:
+      74: -2823922534291722464
+    second: Flap|Object005|Take 001|BaseLayer
+  - first:
+      74: -2325389614456390863
+    second: Flap|Object006|Take 001|BaseLayer
+  - first:
+      74: -2652380318109426349
+    second: Flap|Object007|Take 001|BaseLayer
+  - first:
+      74: 6015631407271690924
+    second: Flap|Object008|Take 001|BaseLayer
+  - first:
+      74: 7283954806906359029
+    second: Flap|Object009|Take 001|BaseLayer
+  - first:
+      74: 697761601240319882
+    second: Flap|Object010|Take 001|BaseLayer
+  - first:
+      74: -1465530993053471812
+    second: Flap|Object011|Take 001|BaseLayer
+  - first:
+      74: -7857199366933474294
+    second: Flap|Object012|Take 001|BaseLayer
+  - first:
+      74: 5727918183614474358
+    second: Flap|Object013|Take 001|BaseLayer
+  - first:
+      74: 3264908373235587646
+    second: Flap|Object014|Take 001|BaseLayer
+  - first:
+      74: 7741665020539687564
+    second: Flap|Object02|Take 001|BaseLayer
+  - first:
+      74: -2579058457424617921
+    second: Flap|Plane001|Take 001|BaseLayer
+  - first:
+      74: 579209403780681238
+    second: Flap|Plane02|Take 001|BaseLayer
+  - first:
+      74: 1925800533125376784
+    second: Flap|Plane03|Take 001|BaseLayer
+  - first:
+      74: 5113411645434562479
+    second: Flap|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 7373273213778007001
+    second: Flap|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 999853428156477770
+    second: Flap|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 2621469446417998001
+    second: Flap|Rectangle006|Take 001|BaseLayer
+  - first:
+      74: 3385223546991686501
+    second: Flap|Rectangle01|Take 001|BaseLayer
+  - first:
+      74: -3778203699358756449
+    second: Flap|Rectangle03|Take 001|BaseLayer
+  - first:
+      74: 6494690848153047122
+    second: Flap|Rectangle21|Take 001|BaseLayer
+  - first:
+      74: 54338204266835983
+    second: Flap|Shape001|Take 001|BaseLayer
+  - first:
+      74: 5026619958273364715
+    second: Flap|Shape01|Take 001|BaseLayer
+  - first:
+      74: 2839535668401923913
+    second: Flap|Shape02|Take 001|BaseLayer
+  - first:
+      74: -3581088080616583237
+    second: Flap|Text001|Take 001|BaseLayer
+  - first:
+      74: 952131378059083145
+    second: Flap|VRayLight001|Take 001|BaseLayer
+  - first:
+      74: -5630718095190586707
+    second: Flap|VRayLight002|Take 001|BaseLayer
+  - first:
+      74: -7648094703493870390
+    second: Filters|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: 1900700900366909395
+    second: Filters|Camera001|Take 001|BaseLayer
+  - first:
+      74: 8205349075267890335
+    second: Filters|Camera002.Target|Take 001|BaseLayer
+  - first:
+      74: -3615917214738037652
+    second: Filters|Camera002|Take 001|BaseLayer
+  - first:
+      74: 455837314445612783
+    second: Filters|Camera003.Target|Take 001|BaseLayer
+  - first:
+      74: -1963741182529860424
+    second: Filters|Camera003|Take 001|BaseLayer
+  - first:
+      74: 2666944750751433726
+    second: Filters|Camera004.Target|Take 001|BaseLayer
+  - first:
+      74: -8391554460890570922
+    second: Filters|Camera004|Take 001|BaseLayer
+  - first:
+      74: -4965273333475239877
+    second: Filters|Camera005.Target|Take 001|BaseLayer
+  - first:
+      74: 6638160653804148420
+    second: Filters|Camera005|Take 001|BaseLayer
+  - first:
+      74: 2612081347848828901
+    second: Filters|Camera006.Target|Take 001|BaseLayer
+  - first:
+      74: -2041443548561554791
+    second: Filters|Camera006|Take 001|BaseLayer
+  - first:
+      74: 273283501144633810
+    second: Filters|Camera007.Target|Take 001|BaseLayer
+  - first:
+      74: -8205002006175603275
+    second: Filters|Camera007|Take 001|BaseLayer
+  - first:
+      74: -2184573556916127310
+    second: Filters|Camera008.Target|Take 001|BaseLayer
+  - first:
+      74: 3329836789143427834
+    second: Filters|Camera008|Take 001|BaseLayer
+  - first:
+      74: -3334183058555819144
+    second: Filters|Coioler|Take 001|BaseLayer
+  - first:
+      74: -866330397930399632
+    second: Filters|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -8974232883988955235
+    second: Filters|Cylinder02|Take 001|BaseLayer
+  - first:
+      74: -351152968086930741
+    second: Filters|Cylinder03|Take 001|BaseLayer
+  - first:
+      74: 5252859650125684696
+    second: Filters|Cylinder04|Take 001|BaseLayer
+  - first:
+      74: 981871157109611135
+    second: Filters|Cylinder05|Take 001|BaseLayer
+  - first:
+      74: -4373293598177613513
+    second: Filters|Cylinder06|Take 001|BaseLayer
+  - first:
+      74: 7926335836178097659
+    second: Filters|Cylinder07|Take 001|BaseLayer
+  - first:
+      74: 7445022674902701410
+    second: Filters|Cylinder08|Take 001|BaseLayer
+  - first:
+      74: -1611585578747600150
+    second: Filters|Line001|Take 001|BaseLayer
+  - first:
+      74: -2075278809173663378
+    second: Filters|Line001|Take 001|BaseLayer.001
+  - first:
+      74: -7528606135482205412
+    second: Filters|Line002|Take 001|BaseLayer
+  - first:
+      74: 4471109063449490599
+    second: Filters|Line003|Take 001|BaseLayer
+  - first:
+      74: 4976983697201027702
+    second: Filters|Line004|Take 001|BaseLayer
+  - first:
+      74: 5895694407883725223
+    second: Filters|Line018|Take 001|BaseLayer
+  - first:
+      74: 6196918874868568375
+    second: Filters|Line019|Take 001|BaseLayer
+  - first:
+      74: -307860809363050194
+    second: Filters|Line020|Take 001|BaseLayer
+  - first:
+      74: -145181532853678184
+    second: Filters|Line021|Take 001|BaseLayer
+  - first:
+      74: 8337512084111241514
+    second: Filters|Line022|Take 001|BaseLayer
+  - first:
+      74: -5211150358482239553
+    second: Filters|Line023|Take 001|BaseLayer
+  - first:
+      74: 3014393930850668753
+    second: Filters|Line024|Take 001|BaseLayer
+  - first:
+      74: 2898171426842010727
+    second: Filters|Line025|Take 001|BaseLayer
+  - first:
+      74: 5569169422303726654
+    second: Filters|Line026|Take 001|BaseLayer
+  - first:
+      74: 8351191480355938011
+    second: Filters|Line027|Take 001|BaseLayer
+  - first:
+      74: 332710266147192513
+    second: Filters|Line028|Take 001|BaseLayer
+  - first:
+      74: -3773303971857433376
+    second: Filters|Object001|Take 001|BaseLayer
+  - first:
+      74: -1298202012841539744
+    second: Filters|Object002|Take 001|BaseLayer
+  - first:
+      74: -4619078885153947468
+    second: Filters|Object003|Take 001|BaseLayer
+  - first:
+      74: -8724140954932652325
+    second: Filters|Object004|Take 001|BaseLayer
+  - first:
+      74: 7563930176822739699
+    second: Filters|Object005|Take 001|BaseLayer
+  - first:
+      74: -8640029261018043651
+    second: Filters|Object006|Take 001|BaseLayer
+  - first:
+      74: -6397725068815034310
+    second: Filters|Object007|Take 001|BaseLayer
+  - first:
+      74: 8775596770756255828
+    second: Filters|Object008|Take 001|BaseLayer
+  - first:
+      74: 2555738112228028649
+    second: Filters|Object009|Take 001|BaseLayer
+  - first:
+      74: 8349218208988969356
+    second: Filters|Object010|Take 001|BaseLayer
+  - first:
+      74: 8673028364124754748
+    second: Filters|Object011|Take 001|BaseLayer
+  - first:
+      74: -5317173971768469742
+    second: Filters|Object012|Take 001|BaseLayer
+  - first:
+      74: -4483507615938801316
+    second: Filters|Object013|Take 001|BaseLayer
+  - first:
+      74: -480399037459130903
+    second: Filters|Object014|Take 001|BaseLayer
+  - first:
+      74: -7965242586779229455
+    second: Filters|Object02|Take 001|BaseLayer
+  - first:
+      74: 4563018904571098580
+    second: Filters|Plane001|Take 001|BaseLayer
+  - first:
+      74: -5778928794096089618
+    second: Filters|Plane02|Take 001|BaseLayer
+  - first:
+      74: 7143067409891243259
+    second: Filters|Plane03|Take 001|BaseLayer
+  - first:
+      74: -2671369203212260893
+    second: Filters|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -437481410528526698
+    second: Filters|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: -1247453277296370402
+    second: Filters|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 2624594898983219350
+    second: Filters|Rectangle006|Take 001|BaseLayer
+  - first:
+      74: -4627581866718601650
+    second: Filters|Rectangle01|Take 001|BaseLayer
+  - first:
+      74: -6458310450625535299
+    second: Filters|Rectangle03|Take 001|BaseLayer
+  - first:
+      74: -6462399883538717691
+    second: Filters|Rectangle21|Take 001|BaseLayer
+  - first:
+      74: -4078964747095892767
+    second: Filters|Shape001|Take 001|BaseLayer
+  - first:
+      74: 6323862468866250745
+    second: Filters|Shape01|Take 001|BaseLayer
+  - first:
+      74: 6496619968922246128
+    second: Filters|Shape02|Take 001|BaseLayer
+  - first:
+      74: -5663639553289909388
+    second: Filters|Text001|Take 001|BaseLayer
+  - first:
+      74: -5510582760010133201
+    second: Filters|VRayLight001|Take 001|BaseLayer
+  - first:
+      74: -2016027934756598715
+    second: Filters|VRayLight002|Take 001|BaseLayer
+  - first:
+      74: 2854217520687456520
+    second: Body|Camera001.Target|Take 001|BaseLayer
+  - first:
+      74: 8068750239558815294
+    second: Body|Camera001|Take 001|BaseLayer
+  - first:
+      74: 7410515094019370245
+    second: Body|Camera002.Target|Take 001|BaseLayer
+  - first:
+      74: -3169721522038512641
+    second: Body|Camera002|Take 001|BaseLayer
+  - first:
+      74: 1766280232710730493
+    second: Body|Camera003.Target|Take 001|BaseLayer
+  - first:
+      74: 5150682332717460810
+    second: Body|Camera003|Take 001|BaseLayer
+  - first:
+      74: -7687238003427867125
+    second: Body|Camera004.Target|Take 001|BaseLayer
+  - first:
+      74: 3897049855209180849
+    second: Body|Camera004|Take 001|BaseLayer
+  - first:
+      74: 8827610814363547615
+    second: Body|Camera005.Target|Take 001|BaseLayer
+  - first:
+      74: -8466545693946540828
+    second: Body|Camera005|Take 001|BaseLayer
+  - first:
+      74: -7033698698175807862
+    second: Body|Camera006.Target|Take 001|BaseLayer
+  - first:
+      74: 3696917207717433181
+    second: Body|Camera006|Take 001|BaseLayer
+  - first:
+      74: 4854859674556149147
+    second: Body|Camera007.Target|Take 001|BaseLayer
+  - first:
+      74: 3112677508605035648
+    second: Body|Camera007|Take 001|BaseLayer
+  - first:
+      74: 2305609433318737177
+    second: Body|Camera008.Target|Take 001|BaseLayer
+  - first:
+      74: -6816542474851905533
+    second: Body|Camera008|Take 001|BaseLayer
+  - first:
+      74: 8496551892394185751
+    second: Body|Coioler|Take 001|BaseLayer
+  - first:
+      74: 488575828492997777
+    second: Body|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 2216243559349649083
+    second: Body|Cylinder02|Take 001|BaseLayer
+  - first:
+      74: -727192544190518913
+    second: Body|Cylinder03|Take 001|BaseLayer
+  - first:
+      74: 6199552551178718770
+    second: Body|Cylinder04|Take 001|BaseLayer
+  - first:
+      74: 537512409209070551
+    second: Body|Cylinder05|Take 001|BaseLayer
+  - first:
+      74: -4550325523137990455
+    second: Body|Cylinder06|Take 001|BaseLayer
+  - first:
+      74: 8720847161634950059
+    second: Body|Cylinder07|Take 001|BaseLayer
+  - first:
+      74: -5683714710967744867
+    second: Body|Cylinder08|Take 001|BaseLayer
+  - first:
+      74: -9112996434239767026
+    second: Body|Line001|Take 001|BaseLayer
+  - first:
+      74: -8181769917740132882
+    second: Body|Line001|Take 001|BaseLayer.001
+  - first:
+      74: -8149083038258708969
+    second: Body|Line002|Take 001|BaseLayer
+  - first:
+      74: -2386890002209258160
+    second: Body|Line003|Take 001|BaseLayer
+  - first:
+      74: -7317051449375661521
+    second: Body|Line004|Take 001|BaseLayer
+  - first:
+      74: 5273304991447624712
+    second: Body|Line018|Take 001|BaseLayer
+  - first:
+      74: 8867955525895519846
+    second: Body|Line019|Take 001|BaseLayer
+  - first:
+      74: 1081432580568015148
+    second: Body|Line020|Take 001|BaseLayer
+  - first:
+      74: 8687721478961477075
+    second: Body|Line021|Take 001|BaseLayer
+  - first:
+      74: -7004451965615150223
+    second: Body|Line022|Take 001|BaseLayer
+  - first:
+      74: -5535225880397807186
+    second: Body|Line023|Take 001|BaseLayer
+  - first:
+      74: 6758898115657946404
+    second: Body|Line024|Take 001|BaseLayer
+  - first:
+      74: 3249731715015428393
+    second: Body|Line025|Take 001|BaseLayer
+  - first:
+      74: 5809490394749136015
+    second: Body|Line026|Take 001|BaseLayer
+  - first:
+      74: 4218945728171101878
+    second: Body|Line027|Take 001|BaseLayer
+  - first:
+      74: 5570757536131021622
+    second: Body|Line028|Take 001|BaseLayer
+  - first:
+      74: 6427768168340245311
+    second: Body|Object001|Take 001|BaseLayer
+  - first:
+      74: 4720873256990956238
+    second: Body|Object002|Take 001|BaseLayer
+  - first:
+      74: -8250752638484470897
+    second: Body|Object003|Take 001|BaseLayer
+  - first:
+      74: -4641019585814698152
+    second: Body|Object004|Take 001|BaseLayer
+  - first:
+      74: -5411091303633803963
+    second: Body|Object005|Take 001|BaseLayer
+  - first:
+      74: 4882275932127098836
+    second: Body|Object006|Take 001|BaseLayer
+  - first:
+      74: -2365924337675475828
+    second: Body|Object007|Take 001|BaseLayer
+  - first:
+      74: 8516482583615201119
+    second: Body|Object008|Take 001|BaseLayer
+  - first:
+      74: -5464809204352228201
+    second: Body|Object009|Take 001|BaseLayer
+  - first:
+      74: 2594448525331039158
+    second: Body|Object010|Take 001|BaseLayer
+  - first:
+      74: -309312465597505660
+    second: Body|Object011|Take 001|BaseLayer
+  - first:
+      74: 8588943676996275765
+    second: Body|Object012|Take 001|BaseLayer
+  - first:
+      74: -7770133340666603417
+    second: Body|Object013|Take 001|BaseLayer
+  - first:
+      74: 3749114838516092707
+    second: Body|Object014|Take 001|BaseLayer
+  - first:
+      74: -1025232144358801125
+    second: Body|Object02|Take 001|BaseLayer
+  - first:
+      74: 8626242467009068641
+    second: Body|Plane001|Take 001|BaseLayer
+  - first:
+      74: -1175803050465838030
+    second: Body|Plane02|Take 001|BaseLayer
+  - first:
+      74: -7448719242372524806
+    second: Body|Plane03|Take 001|BaseLayer
+  - first:
+      74: 6349934845425693387
+    second: Body|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -2245610879604328301
+    second: Body|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 1233712036961568254
+    second: Body|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 215610274376060497
+    second: Body|Rectangle006|Take 001|BaseLayer
+  - first:
+      74: -2879832272699159067
+    second: Body|Rectangle01|Take 001|BaseLayer
+  - first:
+      74: -9201138129524951668
+    second: Body|Rectangle03|Take 001|BaseLayer
+  - first:
+      74: -6459372422498209750
+    second: Body|Rectangle21|Take 001|BaseLayer
+  - first:
+      74: 656454827003921853
+    second: Body|Shape001|Take 001|BaseLayer
+  - first:
+      74: 6052048435822472461
+    second: Body|Shape01|Take 001|BaseLayer
+  - first:
+      74: -3416624831113254292
+    second: Body|Shape02|Take 001|BaseLayer
+  - first:
+      74: -3200487450923536034
+    second: Body|Text001|Take 001|BaseLayer
+  - first:
+      74: 4856473087151102627
+    second: Body|VRayLight001|Take 001|BaseLayer
+  - first:
+      74: 6480097861706226271
+    second: Body|VRayLight002|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
