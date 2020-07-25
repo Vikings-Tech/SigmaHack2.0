@@ -58,3 +58,16 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+sigmaHack/[Aa]ssets/Plugins
+sigmaHack/[Aa]ssets/Parse
+sigmaHack/[Aa]ssets/PlayServicesResolver
+sigmaHack/[Aa]ssets/Firebase
+sigmaHack/[Aa]ssets/RestClient
+sigmaHack/[Aa]ssets/StreamingAssets
+sigmaHack/[Aa]ssets/StreamingAssets.meta
+sigmaHack/[Aa]ssets/unity-sdk-4.7.1
+sigmaHack/[Aa]ssets/unity-sdk-4.7.1.meta
+sigmaHack/[Aa]ssets/unity-sdk-core-1.2.1
+sigmaHack/[Aa]ssets/unity-sdk-core-1.2.1.meta
+sigmaHack/[Aa]ssets/google-services.json
+sigmaHack/[Aa]ssets/google-services.json.meta
