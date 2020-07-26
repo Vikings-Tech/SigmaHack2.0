@@ -1,4 +1,5 @@
 # DO AR
+<img src="./sigmaHack/Assets/AuthScene/logo.png" width="250" height="200" />
 This is the hackathon submission for Sigma Hacks 2.0 by team <b>Vikings</b>.
 
 ## Features
