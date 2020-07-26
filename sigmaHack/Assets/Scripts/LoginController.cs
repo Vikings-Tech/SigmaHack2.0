@@ -7,7 +7,12 @@ public class LoginController : MonoBehaviour
     public static bool LoggedIn = false;
     public InputField emailInput, passwordInput;
     public GameObject authPanel, registrationPanel;
-    
+
+    private void Start()
+    {
+        Screen.orientation = ScreenOrientation.Portrait;
+    }
+
     public void Login()
     {
         FirebaseAuth.DefaultInstance.SignInWithEmailAndPasswordAsync(emailInput.text,
@@ -33,7 +38,7 @@ public class LoginController : MonoBehaviour
                 
                 
         }));
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("MenuScene");
     }
     void GetErrorMessage(AuthError errorCode)
     {

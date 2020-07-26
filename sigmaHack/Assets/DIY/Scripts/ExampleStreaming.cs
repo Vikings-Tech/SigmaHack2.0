@@ -27,7 +27,7 @@ using IBM.Cloud.SDK.Authentication.Iam;
 using IBM.Cloud.SDK.Utilities;
 using IBM.Cloud.SDK.DataTypes;
 
-namespace IBM.Watsson.Examples
+namespace IBM.Watson.Examples
 {
     public class ExampleStreaming : MonoBehaviour
     {

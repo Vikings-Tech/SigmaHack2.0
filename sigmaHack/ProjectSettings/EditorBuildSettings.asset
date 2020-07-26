@@ -5,10 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/WebsiteTutScene.unity
-    guid: fbcdf9b6039ca0b429e75ce49dafffe3
+  - enabled: 1
+    path: Assets/Scenes/AuthScene.unity
+    guid: 4e836694a96e4174b89c2d0c326732d7
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 8b9476e86e4a1e644b8a1f08dd37cbf9
+  - enabled: 1
+    path: Assets/Scenes/DIYMenuScene.unity
+    guid: 31ee1777d8095aa4aacdf1fca04f69df
+  - enabled: 1
+    path: Assets/Scenes/DIYNavMenu.unity
+    guid: 2ef8c5c861b67bc45ae5c8d468762982
   - enabled: 1
     path: Assets/Scenes/DIYTutShelf.unity
     guid: 413a62e959c79fa4d988f0789abc1f81
+  - enabled: 1
+    path: Assets/Scenes/DIYTutAC.unity
+    guid: 874f27b30815ce94a8329e0892bf768a
+  - enabled: 1
+    path: Assets/Scenes/WebsiteTutScene.unity
+    guid: fbcdf9b6039ca0b429e75ce49dafffe3
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoardScene.unity
+    guid: 85ec7ccc279934d4089d6f6a0d952394
   m_configObjects: {}
